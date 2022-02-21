@@ -1,9 +1,9 @@
 <h1>Ancient World Survival Game </h1>
 <h4>Explore the ancient world through this text game. </h4>
 
-Designed by @clairehaaas.
+Designed by @clairejhaas.
 Made in Python.
-Sources provided in [sources.txt](https://github.com/clairehaaas/AncientWorldSurvivalGame/blob/main/sources.txt) file.
+Sources provided in [sources.txt](https://github.com/clairejhaas/AncientWorldSurvivalGame/blob/main/sources.txt) file.
 
 *Ancient Early Worlds:*
 <ul>
